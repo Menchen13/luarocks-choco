@@ -1,4 +1,4 @@
-$luarocksZipName = "luarocks-2.4.4-win32"
+$luarocksZipName = "luarocks-3.12.2-win32"
 $luarocksInstallDir = (Join-Path "$env:ChocolateyPackageFolder" "$luarocksZipName")
 
 # Remove the bat files.
